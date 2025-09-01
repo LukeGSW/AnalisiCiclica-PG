@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-29T21:39:35.910182",
+  "timestamp": "2025-09-01T21:39:51.200855",
   "ticker": "PG",
   "data_points": 4995,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 13.430663619285713,
     "confidence": "LOW",
     "price": 157.04,
-    "timestamp": "2025-08-29T21:39:33.362407"
+    "timestamp": "2025-09-01T21:39:48.653689"
   },
   "backtest_metrics": {
     "total_return_%": 162.3151274299507,
