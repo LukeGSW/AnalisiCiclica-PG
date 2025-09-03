@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-09-02T21:39:43.119125",
+  "timestamp": "2025-09-03T21:39:35.089058",
   "ticker": "PG",
-  "data_points": 4996,
+  "data_points": 4997,
   "latest_signal": {
-    "date": "2025-09-02",
+    "date": "2025-09-03",
     "signal": "SELL",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.21316086344322838,
-    "oscillator_value": 2.123702500000036,
-    "signal_strength": 15.492877121996894,
+    "phase_value": 0.37922023765906204,
+    "oscillator_value": 2.0668924999999945,
+    "signal_strength": 15.734258810605995,
     "confidence": "LOW",
-    "price": 157.99,
-    "timestamp": "2025-09-02T21:39:40.917725"
+    "price": 158.17,
+    "timestamp": "2025-09-03T21:39:32.825913"
   },
   "backtest_metrics": {
-    "total_return_%": 161.50520888870625,
-    "max_drawdown_%": 0.15594399500144426,
-    "sharpe_ratio": 1.414974734868891,
+    "total_return_%": 163.7390619299781,
+    "max_drawdown_%": 0.0,
+    "sharpe_ratio": 1.426261571517222,
     "sortino_ratio": Infinity,
-    "calmar_ratio": 107.87064487617282,
+    "calmar_ratio": Infinity,
     "total_trades": 23,
-    "win_rate_%": 95.65217391304348,
-    "profit_factor": 797.9023233715525
+    "win_rate_%": 100.0,
+    "profit_factor": Infinity
   },
   "cycle_analysis": {
     "dominant_period": 84.0,
