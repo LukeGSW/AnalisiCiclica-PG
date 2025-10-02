@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-10-01T21:40:06.153612",
+  "timestamp": "2025-10-02T21:39:01.655163",
   "ticker": "PG",
-  "data_points": 5017,
+  "data_points": 5018,
   "latest_signal": {
-    "date": "2025-10-01",
+    "date": "2025-10-02",
     "signal": "BUY",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.892348592296936,
-    "oscillator_value": -2.502249999999975,
-    "signal_strength": 7.289645847912434,
+    "phase_value": -2.7284366058098404,
+    "oscillator_value": -3.0090000000000146,
+    "signal_strength": 9.139152973133013,
     "confidence": "LOW",
-    "price": 153.18,
-    "timestamp": "2025-10-01T21:40:03.611271"
+    "price": 152.05,
+    "timestamp": "2025-10-02T21:38:59.185113"
   },
   "backtest_metrics": {
-    "total_return_%": 162.94459181750403,
+    "total_return_%": 162.1576473551419,
     "max_drawdown_%": 0.0,
-    "sharpe_ratio": 1.4185432015843658,
+    "sharpe_ratio": 1.4145245094286008,
     "sortino_ratio": Infinity,
     "calmar_ratio": Infinity,
     "total_trades": 23,
