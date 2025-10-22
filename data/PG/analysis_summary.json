@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-10-21T21:39:30.362687",
+  "timestamp": "2025-10-22T21:39:29.051820",
   "ticker": "PG",
-  "data_points": 5031,
+  "data_points": 5032,
   "latest_signal": {
-    "date": "2025-10-21",
+    "date": "2025-10-22",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.27599652509946,
-    "oscillator_value": -4.333750000000009,
-    "signal_strength": 52.70838198131316,
+    "phase_value": -2.2358209333631653,
+    "oscillator_value": -4.088499999999982,
+    "signal_strength": 52.64328259046209,
     "confidence": "MEDIUM",
-    "price": 151.62,
-    "timestamp": "2025-10-21T21:39:28.559054"
+    "price": 152.2,
+    "timestamp": "2025-10-22T21:39:27.153368"
   },
   "backtest_metrics": {
     "total_return_%": 161.59172330405679,
