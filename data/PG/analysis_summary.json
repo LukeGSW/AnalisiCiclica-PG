@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-11T21:43:27.769791",
+  "timestamp": "2025-12-12T21:41:09.828295",
   "ticker": "PG",
-  "data_points": 5067,
+  "data_points": 5068,
   "latest_signal": {
-    "date": "2025-12-11",
+    "date": "2025-12-12",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.3349171353877973,
-    "oscillator_value": -4.027999999999992,
-    "signal_strength": 46.6080037805808,
+    "phase_value": -2.3237146845273577,
+    "oscillator_value": -4.390999999999991,
+    "signal_strength": 50.846803306877156,
     "confidence": "MEDIUM",
-    "price": 140.76,
-    "timestamp": "2025-12-11T21:43:26.062553"
+    "price": 142.84,
+    "timestamp": "2025-12-12T21:41:07.810912"
   },
   "backtest_metrics": {
-    "total_return_%": 156.9781889051824,
-    "max_drawdown_%": 2.0626251551660224,
-    "sharpe_ratio": 1.3708300278188803,
-    "sortino_ratio": 1.122598618037802,
-    "calmar_ratio": 7.9021669726725206,
-    "total_trades": 24,
-    "win_rate_%": 87.5,
-    "profit_factor": 18.75306672845608
+    "total_return_%": 155.00324481106546,
+    "max_drawdown_%": 1.917148424510077,
+    "sharpe_ratio": 1.3372127303603076,
+    "sortino_ratio": 1.1719190007979738,
+    "calmar_ratio": 8.446833210191684,
+    "total_trades": 23,
+    "win_rate_%": 86.95652173913044,
+    "profit_factor": 20.453002032898674
   },
   "cycle_analysis": {
     "dominant_period": 84.0,
