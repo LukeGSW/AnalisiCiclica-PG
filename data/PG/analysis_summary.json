@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-24T21:42:48.106564",
+  "timestamp": "2025-12-25T21:42:57.439208",
   "ticker": "PG",
   "data_points": 5076,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 40.43877635984225,
     "confidence": "MEDIUM",
     "price": 144.49,
-    "timestamp": "2025-12-24T21:42:46.054882"
+    "timestamp": "2025-12-25T21:42:55.457587"
   },
   "backtest_metrics": {
     "total_return_%": 153.92062267415466,
