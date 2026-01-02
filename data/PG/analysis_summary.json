@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-01-01T21:43:34.691509",
+  "timestamp": "2026-01-02T21:41:55.832194",
   "ticker": "PG",
-  "data_points": 5080,
+  "data_points": 5081,
   "latest_signal": {
-    "date": "2025-12-31",
+    "date": "2026-01-02",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -1.8776495283635883,
-    "oscillator_value": -1.015749999999997,
-    "signal_strength": 28.565354904462225,
+    "phase_value": -2.0174662168463278,
+    "oscillator_value": -1.4832499999999982,
+    "signal_strength": 29.16654756830969,
     "confidence": "LOW",
-    "price": 143.31,
-    "timestamp": "2026-01-01T21:43:32.627667"
+    "price": 141.79,
+    "timestamp": "2026-01-02T21:41:54.084143"
   },
   "backtest_metrics": {
     "total_return_%": 154.57864599814974,
     "max_drawdown_%": 2.2410355972091214,
-    "sharpe_ratio": 1.3310906707906198,
-    "sortino_ratio": 1.4469677243814298,
-    "calmar_ratio": 7.200832234784645,
+    "sharpe_ratio": 1.3306513930400032,
+    "sortino_ratio": 1.4460188930867537,
+    "calmar_ratio": 7.196110377581509,
     "total_trades": 24,
     "win_rate_%": 83.33333333333334,
     "profit_factor": 17.658154640820218
